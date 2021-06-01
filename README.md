@@ -1,6 +1,6 @@
 # Employee-Payroll Management System (C++)
 
-`Screenshots`
+## `Screenshots of project`
 
 ## Console and Menu Based CRUD operation
 
